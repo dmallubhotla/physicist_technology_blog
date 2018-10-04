@@ -11,6 +11,7 @@ author:
 
 # Dependencies
 highlighter:         rouge
+markdown:            kramdown
 
 # Permalinks
 permalink:        pretty
