@@ -1,1 +1,1 @@
-# physicist_technology_blog
+Github repo for blog about physics computing setups.
