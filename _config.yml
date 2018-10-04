@@ -10,7 +10,6 @@ author:
   url:            http://hruday.me
 
 # Dependencies
-markdown:         redcarpet
 highlighter:         rouge
 
 # Permalinks
