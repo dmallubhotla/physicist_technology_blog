@@ -3,6 +3,7 @@ title:            'Physicists don''t wear lab coats'
 tagline:          'Except for the ones that do'
 description:      'How physics can use technology to make their lives easier'
 url:              https://dmallubhotla.github.io/physicist_technology_blog/
+baseurl:          https://dmallubhotla.github.io/physicist_technology_blog/
 
 author:
   name:           'Deepak Mallubhotla'
