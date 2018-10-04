@@ -2,8 +2,8 @@
 title:            'Physicists don''t wear lab coats'
 tagline:          'Except for the ones that do'
 description:      'How physics can use technology to make their lives easier'
-url:              https://dmallubhotla.github.io/physicist_technology_blog/
-baseurl:         /physicist_technology_blog
+url:              https://dmallubhotla.github.io/physicistsdontwearlabcoats/
+baseurl:          ""
 
 author:
   name:           'Deepak Mallubhotla'
@@ -23,7 +23,7 @@ paginate:         1
 version:          0.1.0
 
 github:
-  repo:           https://github.com/dmallubhotla/physicist_technology_blog/
+  repo:           https://github.com/dmallubhotla/physicistsdontwearlabcoats/
 
 plugins:
   - jekyll-paginate
