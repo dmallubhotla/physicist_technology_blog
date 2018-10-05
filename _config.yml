@@ -17,7 +17,7 @@ markdown:            kramdown
 permalink:        pretty
 
 # Page config
-excerpt_separator: "improve"
+excerpt_separator: "\n\n"
 paginate:         1
 
 # Custom vars
