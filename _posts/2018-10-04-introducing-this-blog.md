@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to this blog
 usereadtime: true
-excerpt_separator: "\n\n"
+excerpt_separator: "\n\n\n"
 ---
 
 This is going to be the start of a few series of tutorials about how I think physics projects can be structured, 
