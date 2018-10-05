@@ -9,6 +9,7 @@ to make computing easier and more useful. Ultimately, I hope it ends up a helpfu
 can use to try to bring their physics computing out from the 90s. I haven't seen physicists talking a lot about 
 software or workflows, and I think it's something everyone could stand to improve.
 
+
 # Why is this important?
 I think there are some critical attributes any good physics project should exhibit:
 ## Reproducibility
