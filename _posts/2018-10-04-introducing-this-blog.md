@@ -2,14 +2,12 @@
 layout: post
 title: Introduction to this blog
 usereadtime: true
-excerpt_separator: "\n\n\n"
 ---
 
 This is going to be the start of a few series of tutorials about how I think physics projects can be structured, 
 to make computing easier and more useful. Ultimately, I hope it ends up a helpful collection of resources people 
 can use to try to bring their physics computing out from the 90s. I haven't seen physicists talking a lot about 
 software or workflows, and I think it's something everyone could stand to improve.
-
 
 # Why is this important?
 I think there are some critical attributes any good physics project should exhibit:
