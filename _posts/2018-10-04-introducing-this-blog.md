@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to this blog
+usereadtime: true
 ---
 
 This is going to be the start of a few series of tutorials about how I think physics projects can be structured, 
