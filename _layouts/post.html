@@ -6,9 +6,9 @@ layout: default
 	<h1 class="post-title">{{ page.title }}</h1>
 	<span class="post-metadata	">{{ page.date | date_to_string }}</span>
 	{% include readtime.inc %}
-	{% include post-categories.inc %}
 	{% include seriestable.inc %}
 	{{ content }}
+	{% include post-tags.inc %}
 </div>
 
 <div class="related">

@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to this blog
 date: 2018-10-04 14:00:00 -0500
-categories: [meta, physics]
+categories: [meta, philosophy-of-science]
 tags: rant
 ---
 
@@ -81,4 +81,4 @@ things on its own. Keeping things easily editable lets you take a new computer a
 you left off on the old one.
 
 Not every project needs all of these things, and it's not always easy making a project follow these. I'm hoping that 
-I can share some ideas on how to get there though,  
+I can share some ideas on how to get there though.
