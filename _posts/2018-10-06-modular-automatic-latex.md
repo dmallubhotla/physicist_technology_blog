@@ -58,7 +58,7 @@ Quadratic.
 ```
 
 However, for the sake of modularity, we might want to put problem 1 into its own `.tex` file. My preferred way to do this
-is to use the [`subfiles` CTAN package]((https://ctan.org/pkg/subfiles?lang=en). There's a ton of great material out
+is to use the [`subfiles` CTAN package](https://ctan.org/pkg/subfiles?lang=en). There's a ton of great material out
 there about how to use it, so I won't try to write a full tutorial on it. We'll just include a very simple example.
 
 We have a huge amount of flexibility in terms of how we can structure our folder; my personal preference is to do
