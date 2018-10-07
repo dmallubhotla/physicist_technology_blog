@@ -3,6 +3,8 @@ layout: post
 title: Setting up a modular LaTeX project
 series: "Modular LaTeX with make"
 usereadtime: true
+categories: tutorial
+tags: latex
 ---
 I've had a few occasions to use project structures that involved multiple independent sections of a
 LaTeX document, with individual `.pdf` files for each section, while retaining the ability to create a complete `.pdf`

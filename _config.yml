@@ -14,7 +14,7 @@ highlighter:         rouge
 markdown:            kramdown
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:month/:day/:title/
 
 # Page config
 excerpt_separator: "\n\n"
