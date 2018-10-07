@@ -2,7 +2,6 @@
 
 <script>
 	var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-	console.debug("Do not track: " + dnt);
 	if (dnt != "1" && dnt != "yes") {
 		var ga = document.createElement('script');
 		ga.type = 'text/javascript';
