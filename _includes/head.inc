@@ -24,4 +24,5 @@
 	<!-- Icons -->
 	<link rel="shortcut icon" href={{ "/public/favicon.ico" | relative_url }}>
 
+	{% feed_meta %}
 </head>
