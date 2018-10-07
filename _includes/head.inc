@@ -1,5 +1,6 @@
 <head>
 	<link href="http://gmpg.org/xfn/11" rel="profile">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 	<!-- Enable responsiveness on mobile devices-->
