@@ -126,6 +126,14 @@ thing, automating builds, but it does it ridiculously well. I mentioned
 [in a previous post]({% post_url 2018-10-04-introducing-this-blog %}) that having a one-step build was important.
 `make` is the tool that accomplishes that.
 
+It isn't a tool available on Windows by default, but I use Cygwin as a CLI, which gives me access to `make`. There are
+other great build automation tools out there; for projects primarily in a particular language like Python, Javascript
+or Java, there are specific build tools that are commonly used for those languages. I've found that `make` handles a
+large number of my typical use cases, so I use it fairly consistently. There are situations when being able
+to use the full power of something like Gradle is helpful, or so I assume, but none that I've ever run across in
+physics. If you're connecting multiple different languages together, like trying to use Mathematica to generate
+figures which then get included in a document by LaTeX, `make` really shines.
+
 The pros:
 * Once you have it set up properly, your life becomes much easier
 
