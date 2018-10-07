@@ -19,8 +19,8 @@ problems, that's the best place to report it.
 ## About the site
 
 This site is hosted with GitHub pages, using Jekyll, which is an awesome way to manage a blog using just simple
-plaintext files and no cumbersome CMS. The CSS mostly uses (Poole)[https://github.com/poole/poole], and the
-(Lanyon theme)[http://lanyon.getpoole.com]. For other specific features I've tried to credit the parts I've stolen in
+plaintext files and no cumbersome CMS. The CSS mostly uses [Poole](https://github.com/poole/poole), and the
+[Lanyon theme](http://lanyon.getpoole.com). For other specific features I've tried to credit the parts I've stolen in
 their relevant files.
 
 I use Google Analytics because I love data. However, I anonymise IPs, and I believe no personal data is tracked.
