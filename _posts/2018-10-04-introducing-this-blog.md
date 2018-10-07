@@ -2,6 +2,8 @@
 layout: post
 title: Introduction to this blog
 date: 2018-10-04 14:00:00 -0500
+categories: [meta, physics]
+tags: rant
 ---
 
 This is going to be the start of a few series of tutorials about how I think physics projects can be structured, 

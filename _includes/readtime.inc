@@ -2,7 +2,7 @@
 	taken from https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/
 {% endcomment %}
 {% if page.usereadtime %}
-<span class="reading-time" title="Estimated read time">
+<span class="post-metadata" title="Estimated read time">
 	{% assign words = content | number_of_words %}
 	Estimated time to read:
 	{% if words < 360 %}
