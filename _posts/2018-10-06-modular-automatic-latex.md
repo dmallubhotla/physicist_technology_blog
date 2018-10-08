@@ -33,9 +33,16 @@ For this post specifically, the source can be downloaded
 [at this commit](https://github.com/dmallubhotla/modular_latex/tree/4445ffb73cea4b99b75470f2ba2ce3e48fe67584).
 
 ### Dependencies you'll need to get started:
+This is what we'll need to start out
 * Some sort of TeX distribution. I've used MiKTeX on Windows
 * The [`subfiles` package from CTAN](https://ctan.org/pkg/subfiles?lang=en), which you can install however you install
 other TeX packages.
+
+In later posts in the series, we'll use the following:
+* [`latexmk` is a tool](https://mg.readthedocs.io/latexmk.html) is a wrapper to handle document generation better than
+other LaTeX tools
+* [GNU `make`](https://www.gnu.org/software/make/) for build automation
+
 
 ## The situation
 
