@@ -2,7 +2,6 @@
 layout: post
 title: Software I use
 date: 2018-10-04 15:00:00 -0500
-usereadtime: true
 categories: tools
 ---
 Here's a list of some of the software tools I use most frequently for physics
