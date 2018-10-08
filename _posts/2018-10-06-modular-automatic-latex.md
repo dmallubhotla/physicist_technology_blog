@@ -2,7 +2,6 @@
 layout: post
 title: Setting up a modular LaTeX project
 series: "Modular LaTeX with make"
-usereadtime: true
 categories: tutorial
 tags: latex
 ---
