@@ -18,7 +18,7 @@ permalink:        /:year/:month/:day/:title/
 
 # Page config
 excerpt_separator: "\n\n"
-paginate:         4
+paginate:         3
 
 # Custom vars
 version:          0.1.0
