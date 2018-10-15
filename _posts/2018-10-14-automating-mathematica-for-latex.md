@@ -4,7 +4,6 @@ title: Automating Mathematica
 series: "Modular LaTeX with make"
 category: tutorial
 tags: mathematica latex make
-usereadtime: true
 ---
 
 Imagine you generate a figure in a Mathematica notebook to insert into a PDF. Imagine needing to change the image and
