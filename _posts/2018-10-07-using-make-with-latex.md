@@ -3,7 +3,7 @@ layout: post
 title: Adding make to our modular LaTeX project
 series: "Modular LaTeX with make"
 categories: tutorial
-tags: latex, make
+tags: latex make
 ---
 
 In the previous part, we used `subfiles` to create a modular LaTeX project. Now, let's use `make` to automatically

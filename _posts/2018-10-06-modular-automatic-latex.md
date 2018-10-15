@@ -41,7 +41,7 @@ In later posts in the series, we'll use the following:
 * [`latexmk` is a tool](https://mg.readthedocs.io/latexmk.html) is a wrapper to handle document generation better than
 other LaTeX tools
 * [GNU `make`](https://www.gnu.org/software/make/) for build automation
-
+* [Mathematica](https://www.wolfram.com/mathematica/) for Mathematica
 
 ## The situation
 
