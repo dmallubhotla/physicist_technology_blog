@@ -8,7 +8,7 @@ tags: mathematica latex make
 
 Imagine you generate a figure in a Mathematica notebook to insert into a PDF. Imagine needing to change the image and
 update our PDF. You would need to re-run your Mathematica code, then re-run LaTeX. This is the sort of nightmarish
-scenario that never has to happen again.
+scenario that never needs to happen again.
 
 We're going to be adding a new dependency to our series
 * [Mathematica](https://www.wolfram.com/mathematica/), for doing math and computing things
