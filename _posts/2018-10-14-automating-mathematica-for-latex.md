@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Mathematica
+title: Automating Mathematica Calculations
 series: "Modular LaTeX with make"
 category: tutorial
 tags: mathematica latex make
